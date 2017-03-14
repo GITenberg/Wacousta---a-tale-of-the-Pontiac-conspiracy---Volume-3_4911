@@ -1,5 +1,8 @@
 _repo: Wacousta---a-tale-of-the-Pontiac-conspiracy---Volume-3_4911
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Richardson, Major (John)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1558
     wikipedia: http://en.wikipedia.org/wiki/John_Richardson_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4911#Wacousta---a-tale-of-the-Pontiac-conspiracy---Volume-3
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
